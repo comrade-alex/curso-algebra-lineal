@@ -1,5 +1,5 @@
 # Curso completo de álgebra lineal con R, Python y Octave
-
+#
 Consulta el curso completo de álgebra lineal creado por Juan Gabriel Gomila y María Santos solamente en [Udemy](https://www.udemy.com/course/algebralineal/?referralCode=219A2DBFEE5DEE180914)
 
 Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del álgebra lineal del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros, economistas, biólogos, médicos o informáticos. 
